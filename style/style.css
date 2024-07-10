@@ -4,7 +4,7 @@
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-  }
+}
 
 
 /* common css start here */
@@ -189,7 +189,6 @@ nav h3{
     font-size: 20px;
     font-weight: 600;
     display: ruby-text;
-    
 }
 .card button+a:hover {
     background-color: #FD6E0A;
@@ -245,9 +244,7 @@ nav h3{
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
     margin-top: 48px;
-    
-
-}
+ }
 .video iframe{
     margin: 32px auto;
     border-radius: 8px;
@@ -455,13 +452,12 @@ nav h3{
     width: 548px;
     height: 57px;
     box-sizing: border-box;
-    border: 1px solid rgba(13, 19, 33, 0.15);
+    border: 2px solid #FD6E0A;
     border-radius: 8px;
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
-
     background: rgb(255, 255, 255);
     padding: 14px;
 }
